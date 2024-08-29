@@ -16,6 +16,14 @@ Programming Language: Python
 
 Machine Learning Libraries: Scikit-learn, Pandas, Numpy
 
-Web Framework : StreamLit for a basic web interface.
+Web Framework: StreamLit for a basic web interface.
+
+#SCREENSHOTS
+
+![Screenshot 2024-08-29 194931](https://github.com/user-attachments/assets/a944e070-edc6-4eac-aa02-0a553b96822a)
+
+![Screenshot 2024-08-29 194953](https://github.com/user-attachments/assets/9cf343d3-e31e-44bf-af22-72e487356710)
+
+![Screenshot 2024-08-29 195010](https://github.com/user-attachments/assets/1d559802-a2e3-48ad-863e-17d13038ef92)
 
 
